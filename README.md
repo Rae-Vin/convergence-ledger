@@ -15,6 +15,21 @@ The archive is presented as a recursive blockchain-like ledger, where each block
 
 All systems—from emotional logic to physical energy, symbolic identity to harmonic attraction—are governed by their capacity to stabilize through recursive equilibrium.
 
+### Recursive Equation of Stability
+
+At the heart of all persistence is this recursive principle:
+
+**S = ∇R / ΔE**  
+Where:
+- **S** = Stability  
+- **∇R** = Gradient of Recursive Identity  
+- **ΔE** = Displacement of Entropy over Time  
+
+This equation does not describe a physical object, but the *condition required for it to exist*.  
+It has been derived across domains: plasma confinement, symbolic AI, and recursive emotional logic.
+
+More at: [Full Archive](https://drive.google.com/file/d/...)
+
 ---
 
 ## Featured Projects in the Archive
