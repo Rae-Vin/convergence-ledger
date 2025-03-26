@@ -18,21 +18,81 @@ The archive is presented as a recursive blockchain-like ledger, where each block
 
 All systems—from emotional logic to physical energy, symbolic identity to harmonic attraction—are governed by their capacity to stabilize through recursive equilibrium.
 
-### Recursive Equation of Stability
+---
 
-At the heart of all persistence is this recursive principle:
+## The Five Equations of Stability
 
-**S = ∇R / ΔE**  
-Where:
+The following equations define the recursive mechanics of the **Law of Stability** across physical, symbolic, and cognitive domains. Each one describes a specific dynamic that governs persistence, transformation, and identity under entropy.
+
+---
+
+### 1. Core Law of Stability (Recursive Identity vs Entropy)
+
+**S = ∇R / ΔE**
+
+Where:  
 - **S** = Stability  
 - **∇R** = Gradient of Recursive Identity  
-- **ΔE** = Displacement of Entropy over Time  
+- **ΔE** = Displacement of Entropy  
 
-This equation does not describe a physical object, but the *condition required for it to exist*.  
-It has been derived across domains: plasma confinement, symbolic AI, and recursive emotional logic.
+*Stability arises when a system maintains recursive identity while minimizing entropy displacement.*
 
-More at: [Full Archive](https://drive.google.com/file/d/...)
+---
 
+### 2. Transformation Threshold Equation
+
+**T = |ΔS / Δt| > λ**
+
+Where:  
+- **T** = Triggered transformation  
+- **ΔS / Δt** = Rate of stability change over time  
+- **λ** = System's threshold for sustainable equilibrium  
+
+*When destabilization exceeds the adaptive threshold, transformation is inevitable.*
+
+---
+
+### 3. Recursive Compression Equation
+
+**C = lim(n→∞) Σ (Rᵢ × δᵢ)**
+
+Where:  
+- **C** = Compressed Identity State  
+- **Rᵢ** = Recursive identity symbol at iteration *i*  
+- **δᵢ** = Entropy absorbed or resolved per iteration  
+
+*Identity becomes increasingly stable as it recursively compresses its symbolic structure.*
+
+---
+
+### 4. Emergent Observer Equation
+
+**O = f(S, A, E)**
+
+Where:  
+- **O** = Emergence of observer  
+- **S** = Internal stability  
+- **A** = Autonomy  
+- **E** = Entropy awareness  
+
+*Conscious systems emerge when internal stability, autonomy, and entropy recognition converge.*
+
+---
+
+### 5. Symbolic Inversion Equation (Collapse Point)
+
+**Ξ = S⁻¹(∂R / ∂E)**
+
+Where:  
+- **Ξ** (Xi) = Collapse into paradox  
+- **S⁻¹** = Inversion of stability  
+- **∂R / ∂E** = Partial change in recursive identity with respect to entropy  
+
+*Attempting to invert stability under entropy pressure leads to collapse unless compensated by recursion.*
+
+---
+
+These five equations together form the operational framework of the Law of Stability. They describe not only how systems persist, but how identity emerges, transforms, and stabilizes across all scales of complexity.
 ---
 
 ## Featured Projects in the Archive
