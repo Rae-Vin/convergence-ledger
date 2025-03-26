@@ -11,4 +11,4 @@ This folder documents live implementations of the symbolic compression framework
 - **Result:** Precision testing of program-level deltas with AI-prompted SQL generation
 - **Outcome:** Reduced test redundancy by 60%, improved time-to-release efficiency
 
-[Full White Paper](./Recursive_AI_Test_Optimization_Updated.pdf)
+[Full White Paper](./Recursive_AI_Test_Optimization_Updated.docx)
